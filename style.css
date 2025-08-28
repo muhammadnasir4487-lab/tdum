@@ -239,3 +239,26 @@ header{
   margin: 50px 20px 20px 20px;
   font-size: 20px;
 }
+.Notice{
+  margin: 50px 20px 20px 20px;
+  font-size: 20px;
+  
+}
+.Noticed{
+  margin: 00px 20px 20px 20px;
+  padding: 10px;
+  background: rgba(0, 250, 154, 0.2);
+}
+  
+.Noticeh{
+  background: rgba(0, 250, 154, 0.84);
+  margin: 20px 20px 00px 20px;
+  padding: 10px;
+}
+.Noticed h4{
+  font-size: 18px;
+}
+.Noticed p{
+  text-align: justify;
+  font-size: 18px;
+}
